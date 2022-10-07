@@ -3,6 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Durgesh/AndroidStudioProjects/AtithiEventManagement/app/src/main/res/drawable-v24/ic_back.xml" value="0.1" />
+        <entry key="..\:/Users/Durgesh/AndroidStudioProjects/AtithiEventManagement/app/src/main/res/drawable-v24/ic_email.xml" value="0.1" />
+        <entry key="..\:/Users/Durgesh/AndroidStudioProjects/AtithiEventManagement/app/src/main/res/drawable-v24/ic_password.xml" value="0.1" />
+        <entry key="..\:/Users/Durgesh/AndroidStudioProjects/AtithiEventManagement/app/src/main/res/drawable-v24/rounded_gradient.xml" value="0.2075" />
+        <entry key="..\:/Users/Durgesh/AndroidStudioProjects/AtithiEventManagement/app/src/main/res/drawable-v24/shape_circ01.xml" value="0.1" />
+        <entry key="..\:/Users/Durgesh/AndroidStudioProjects/AtithiEventManagement/app/src/main/res/drawable-v24/shape_circle03.xml" value="0.1" />
+        <entry key="..\:/Users/Durgesh/AndroidStudioProjects/AtithiEventManagement/app/src/main/res/drawable-v24/shape_rect01.xml" value="0.1" />
+        <entry key="..\:/Users/Durgesh/AndroidStudioProjects/AtithiEventManagement/app/src/main/res/drawable-v24/shape_rect02.xml" value="0.1" />
+        <entry key="..\:/Users/Durgesh/AndroidStudioProjects/AtithiEventManagement/app/src/main/res/drawable-v24/shape_rect03.xml" value="0.1" />
+        <entry key="..\:/Users/Durgesh/AndroidStudioProjects/AtithiEventManagement/app/src/main/res/drawable-v24/shape_rect04.xml" value="0.1" />
+        <entry key="..\:/Users/Durgesh/AndroidStudioProjects/AtithiEventManagement/app/src/main/res/drawable-v24/shape_rect05.xml" value="0.1" />
+        <entry key="..\:/Users/Durgesh/AndroidStudioProjects/AtithiEventManagement/app/src/main/res/drawable-v24/shape_rect06.xml" value="0.1" />
+        <entry key="..\:/Users/Durgesh/AndroidStudioProjects/AtithiEventManagement/app/src/main/res/drawable-v24/shape_rect07.xml" value="0.1" />
+        <entry key="..\:/Users/Durgesh/AndroidStudioProjects/AtithiEventManagement/app/src/main/res/layout/activity_login.xml" value="0.17527173913043478" />
         <entry key="..\:/Users/Durgesh/AndroidStudioProjects/AtithiEventManagement/app/src/main/res/layout/activity_main.xml" value="0.2359375" />
       </map>
     </option>
